@@ -10,7 +10,9 @@
 
 // ["hay", "junk", "hay", "hay", "moreJunk", "needle", "randomJunk"] --> "found the needle at position 5" 
 // Note: In COBOL, it should return "found the needle at position 6"
---------------------------------
+
+
+// --------------------------------
 //MY SOLUTION:
 
 function findNeedle(haystack) {
